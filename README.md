@@ -44,13 +44,13 @@ h. run(): Main method that controls the flow of the ATM simulation.
 1. Programming Language: Python 3.6 or higher
 2. Python Libraries: No external libraries are used; the project uses standard Python built-in functionalities.
 3. Syntax and Concepts:
-        Classes and Objects
-        Methods and Function Calls
-        Control Flow (if-else conditions)
-        Loops (for and while)
-        Exception Handling
-        Input/Output operations
-        List operations for transaction tracking
+        - Classes and Objects
+        - Methods and Function Calls
+        - Control Flow (if-else conditions)
+        - Loops (for and while)
+        - Exception Handling
+        - Input/Output operations
+        - List operations for transaction tracking
 4. Development Environment (IDE): VS Code (Visual Studio Code): Used for writing and testing the Python code.
 
 ## Author
