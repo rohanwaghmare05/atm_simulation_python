@@ -27,14 +27,14 @@ The ATM Machine Simulation includes the following functionalities:
 a. Handles the ATM functionalities, including user authentication, displaying the menu, and managing transactions.
 
 2. Methods:
-a. authenticate(): Verifies the user's PIN.
-b. display_menu(): Shows the list of available options.
-c. balance_inquiry(): Prints the current balance.
-d. cash_deposit(): Enables cash deposit and updates the balance.
-e. cash_withdrawal(): Handles cash withdrawal operations.
-f. pin_change(): Allows the user to change their PIN.
-g. transaction_history(): Displays the transaction history.
-h. run(): Main method that controls the flow of the ATM simulation.
+- authenticate(): Verifies the user's PIN.
+- display_menu(): Shows the list of available options.
+- balance_inquiry(): Prints the current balance.
+- cash_deposit(): Enables cash deposit and updates the balance.
+- cash_withdrawal(): Handles cash withdrawal operations.
+- pin_change(): Allows the user to change their PIN.
+- transaction_history(): Displays the transaction history.
+- run(): Main method that controls the flow of the ATM simulation.
 
 ## How to Run
 1. Navigate to the project directory: cd Task 1
@@ -44,13 +44,13 @@ h. run(): Main method that controls the flow of the ATM simulation.
 1. Programming Language: Python 3.6 or higher
 2. Python Libraries: No external libraries are used; the project uses standard Python built-in functionalities.
 3. Syntax and Concepts:
-        - Classes and Objects
-        - Methods and Function Calls
-        - Control Flow (if-else conditions)
-        - Loops (for and while)
-        - Exception Handling
-        - Input/Output operations
-        - List operations for transaction tracking
+- Classes and Objects
+- Methods and Function Calls
+- Control Flow (if-else conditions)
+- Loops (for and while)
+- Exception Handling
+- Input/Output operations
+- List operations for transaction tracking
 4. Development Environment (IDE): VS Code (Visual Studio Code): Used for writing and testing the Python code.
 
 ## Author
