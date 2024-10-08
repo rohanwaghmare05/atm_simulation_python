@@ -1,3 +1,6 @@
+[grovetown-ga-usa-06-23-600nw-2376860929 (1).jpg
+](https://github.com/rohanwaghmare05/atm_simulation_python/blob/8b451bc48a08285905988847fc28476768d0c2c5/grovetown-ga-usa-06-23-600nw-2376860929%20(1).jpg)
+
 # ATM Machine Simulation Project
 - This project is a Python-based simulation of an Automated Teller Machine (ATM).
 - It provides users with a simple command-line interface to perform basic banking operations, such as checking their balance, depositing and withdrawing cash, changing their PIN, and viewing transaction history.
